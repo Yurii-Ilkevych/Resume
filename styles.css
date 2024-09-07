@@ -1,5 +1,11 @@
-h1,h2,h3,h4,h5,h6,p{
-    margin:0;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
 }
 body {
   font-family: "Montserrat", sans-serif;
@@ -155,7 +161,7 @@ main {
 }
 
 .section-projects {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 .tittle-projects {
@@ -171,8 +177,8 @@ main {
 }
 
 .list-projects li {
-    padding-left: 13px;
-  }
+  padding-left: 13px;
+}
 .list-projects a {
   font-size: 14px;
   line-height: 1.71;
@@ -180,91 +186,91 @@ main {
   text-decoration: none;
 }
 
-.list-projects p{
-    display: inline;
-    color: var(--other-text-color);
+.list-projects p {
+  display: inline;
+  color: var(--other-text-color);
 }
 
-.list-decoration-project{
-    color: #A8A8A8;
-    white-space: pre;
+.list-decoration-project {
+  color: #a8a8a8;
+  white-space: pre;
 }
-.project-bracket{
-font-weight: 700;
-color: #000;
-}
-
-.section-work-experiance{
-    margin-top: 51px;
+.project-bracket {
+  font-weight: 700;
+  color: #000;
 }
 
-.tittle-work-experiance{
-    font-weight: 700;
-    font-size: 22px;
-    line-height: 1.22;
+.section-work-experiance {
+  margin-top: 51px;
 }
 
-.tittle-second-work-experiance{
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 1.22;
-margin-bottom: 8px;
+.tittle-work-experiance {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.22;
 }
 
-.tittle-second-work-experiance-decor{
-color: #FB6D3A;
+.tittle-second-work-experiance {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.22;
+  margin-bottom: 8px;
 }
 
-.date-work-experiance{
-    font-size: 12px;
-    line-height: 1.39;
-    color: #A8A8A8;
+.tittle-second-work-experiance-decor {
+  color: #fb6d3a;
 }
 
-.date-work-experiance-decor{
-    color: #000;
-}
-.list-work-experiance{
-    margin: 8px 0 0 15px;
-padding: 0;
-color: var(--other-text-color);
-font-size: 14px;
-line-height: 1.71;
-}
-.block-work-experiance{
-    margin-top: 16px;
+.date-work-experiance {
+  font-size: 12px;
+  line-height: 1.39;
+  color: #a8a8a8;
 }
 
-.section-education{
-    margin-top: 43px;
+.date-work-experiance-decor {
+  color: #000;
+}
+.list-work-experiance {
+  margin: 8px 0 0 15px;
+  padding: 0;
+  color: var(--other-text-color);
+  font-size: 14px;
+  line-height: 1.71;
+}
+.block-work-experiance {
+  margin-top: 16px;
 }
 
-.tittle-education{
-    font-weight: 700;
-    font-size: 22px;
-    list-style: 1.22;
-    color: #000000;
+.section-education {
+  margin-top: 43px;
 }
 
-.tittle-institution{
-    font-weight: 700;
-    font-size: 16px;
-    list-style: 1.22;
-    color: #FB6D3A;
-    margin-top: 12px;
+.tittle-education {
+  font-weight: 700;
+  font-size: 22px;
+  list-style: 1.22;
+  color: #000000;
 }
 
-.tittle-profession{
-    font-weight: 700;
-    font-size: 14px;
-    list-style: 1.22;
-    color: #000000;
-    margin-top: 11px;
+.tittle-institution {
+  font-weight: 700;
+  font-size: 16px;
+  list-style: 1.22;
+  color: #fb6d3a;
+  margin-top: 12px;
 }
 
-.date-education{
-    font-size: 14px;
-    list-style: 1.22;
-    color: #A8A8A8;
-    margin-top: 12px;
+.tittle-profession {
+  font-weight: 700;
+  font-size: 14px;
+  list-style: 1.22;
+  color: #000000;
+  margin-top: 11px;
+}
+
+.date-education {
+  font-size: 14px;
+  list-style: 1.22;
+  color: #a8a8a8;
+  margin-top: 12px;
 }
